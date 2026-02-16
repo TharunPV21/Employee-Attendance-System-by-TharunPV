@@ -1,7 +1,7 @@
 # Employee-Attendance-System-by-TharunPV
 
-**Name    : Tharun.P.V**
-**College : Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College**
+**Name    : Tharun.P.V**,
+**College : Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College**,
 **Number  : 9962108237**
 
 **To Login Use this mail/password or User can able to create new one for Employee:**
