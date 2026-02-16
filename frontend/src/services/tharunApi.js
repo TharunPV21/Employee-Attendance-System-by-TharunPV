@@ -1,4 +1,4 @@
-const tharunBase = '/api';
+const tharunBase = import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api` : '/api';
 const tharunTimeoutMs = 15000;
 
 function tharunGetToken() {
