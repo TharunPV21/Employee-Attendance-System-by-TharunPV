@@ -1,7 +1,7 @@
 require('dotenv').config();
 const express = require('express');
 const cors = require('cors');
-const tharunDbConnect = require('./config/tharunDbConnect.js');
+const tharunDbConnect = require('./config/tharunDbConnect');
 
 const authRoutes = require('./routes/authRoutes');
 const attendanceRoutes = require('./routes/attendanceRoutes');
